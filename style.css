@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #1A2C30;
+  color: #FAE4AB;
+  margin: 10%
+}
+
+.name {
+ text-align: center; 
+}
+
+.hyper {
+  text-align: center
+}
+
+.top-header {
+  color: #D5A030;
+  border-top: 3px solid #ADA399;  
+}
+
+.other-header {
+  color: #D5A030;
+  border-top: 3px solid #ADA399;
+}
+
+.content {
+  color: #FAE4AB;
+  font-size: 13px;
+}
+
+img {
+  width: 20%;
+}
+
+
